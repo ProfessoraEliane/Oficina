@@ -19,6 +19,6 @@ h2 {text-align: center;color: rgb(98, 95, 139);}
 color: aliceblue;}
 #logo {width : 50px;; }
 li::marker {
-    content: "hearts";
+    content: "U+2764";
     color: blue;
 }
