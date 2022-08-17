@@ -1,7 +1,8 @@
-header {display: inline;position: absolute;}
+header {background: blue;}
+nav li {display: inline; margin: 0 0 0 15px;}
 #LOGO {width: 40%;}
-
-nav {text-transform: uppercase;
+nav {position: absolute;}
+nav a {text-transform: uppercase;
     color: black;
     font-size: 22px;
     font-weight: bold;
