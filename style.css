@@ -1,4 +1,4 @@
-header {display: inline;}
+header {display: inline;position: absolute;}
 #LOGO {width: 40%;}
 .inicio {display: inline-block; margin-left: 30px;}
 nav {text-transform: uppercase;
