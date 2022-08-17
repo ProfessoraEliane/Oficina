@@ -1,5 +1,6 @@
 header {display: inline;}
 #LOGO {width: 40%;}
+.inicio {display: inline-block;}
 nav {text-transform: uppercase;
     color: black;
     font-size: 22px;
