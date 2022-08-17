@@ -20,5 +20,4 @@ color: aliceblue;}
 #logo {width : 50px;; }
 li::marker {
     content: "\1F6E0";
-    color: blue;
 }
