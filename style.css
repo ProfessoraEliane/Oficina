@@ -1,12 +1,5 @@
-headet { padding: 20px;}
-.caixa { position: relative;
-width:  940px;
-margin: 0 auto;
-}
-nav li {display: inline; margin: 0 0 0 15px;}
-#LOGO {width: 40%;}
-nav {position: absolute;}
-nav a {text-transform: uppercase;
+header {display: inline-block;}
+nav {text-transform: uppercase;
     color: black;
     font-size: 22px;
     font-weight: bold;

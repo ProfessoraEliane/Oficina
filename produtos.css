@@ -19,5 +19,7 @@ h2 {text-align: center;color: rgb(98, 95, 139);}
 color: aliceblue;}
 #logo {width : 50px;; }
 li::marker {
+    content: "\2764";
+    color: blue;
     content: "\1F6E0";
 }
