@@ -1,5 +1,4 @@
-header {display: inline-block;}
-h1 {display: inline-block;}
+header {display: inline-flex;}
 nav {text-transform: uppercase;
     color: black;
     font-size: 22px;
