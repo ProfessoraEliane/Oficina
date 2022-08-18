@@ -1,8 +1,9 @@
 header {display: inline-block;
 padding: 20px;}
-#2irmaos {display:inline-block}
+#logo {display:inline-block}
 .caixa {position: relative;
-width: 940px;margin: 0 auto;}
+width: 940px;
+margin: 0 auto;}
 nav {text-transform: uppercase;
     color: black;
     font-size: 22px;
