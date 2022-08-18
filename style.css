@@ -3,7 +3,7 @@ padding: 20px;}
 .caixa {position: relative;
 width: 940px;
 margin: 0 auto;}
-nav {text-transform: uppercase;
+nav ul {text-transform: uppercase;
     color: black;
     font-size: 22px;
     font-weight: bold;
