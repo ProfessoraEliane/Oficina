@@ -1,4 +1,4 @@
-header {display: inline;
+header {display: inline-block;
 padding: 20px;}
 .caixa {position: relative;
 width: 940px;margin: 0 auto;}
