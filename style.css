@@ -1,3 +1,6 @@
+@media screen and{
+    max-width: 480px;
+}
 body {background: black;
 }
 header { background: white;
