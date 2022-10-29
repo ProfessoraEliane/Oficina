@@ -7,13 +7,12 @@ body {background: black;
 }
 header { background: white;
     padding: 50px 0;}
-.caixa { position: relative;
+.caixa {position: relative;
 width: 940px;
 margin: 0 auto;
 }
 #Logo {width: 35%;
 }
-#meio {width: 20%;}
 nav { position: absolute;
 top:55px;
 right: 0;}
@@ -30,9 +29,16 @@ main {color: #ffffff;
 width: 940px;
 margin: 0 auto;
 padding: 50px 0;}
-footer {text-align: center;
-background: grey;
-padding: 40px 0;}
+footer  {
+    text-align: center;
+    background: grey;
+    padding: 40px 0;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    align-items: center;
+    align-content: baseline;
+    }
 #fundo {width: 5%;}
 .copyright {color: #ffffff;
 font-size: 13px;
