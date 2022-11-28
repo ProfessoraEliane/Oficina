@@ -1,0 +1,12 @@
+body { background-color: darkblue; 
+}
+h1 { text-align: center;
+font-size: 30px; 
+color:  white;
+padding: 10px;
+margin: 10px;}
+.titulo-pricipal {padding-right: 20px;}
+#banner { width: 100%;}
+
+p { text-align: justify;
+font-size: 20px;

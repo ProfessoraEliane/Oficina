@@ -1,0 +1,22 @@
+body {width: 100%;}
+header { background: white;
+    padding: 50px 0;}
+.caixa { position: relative;
+width: 940px;
+margin: 0 auto;
+}
+#Logo {width: 35%;
+}
+#meio {width: 20%;}
+nav { position: absolute;
+top:55px;
+right: 0;}
+nav li {display: inline-block; 
+    margin: 0 0 0 15px;}
+nav a {text-transform: uppercase;
+    color: black;
+    font-size: 22px;
+    font-weight: bold;
+    text-decoration: none;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    }

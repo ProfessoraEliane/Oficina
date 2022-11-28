@@ -1,0 +1,17 @@
+@media screen and(
+    max-width: 480px);
+.caixa,.principal,.conteudo-beneficios,.mapa-conteudo,.video
+    {
+        width: auto;}
+body {background: black;width: 100%;
+}
+#meio {width: 20%;}
+
+main {color: #ffffff;
+width: 940px;
+margin: 0 auto;
+padding: 50px 0;}
+
+h2{font-weight: bold;
+text-transform: uppercase;
+text-align: center;}
