@@ -1,25 +1,6 @@
 body { background-color: darkblue; 
 }
-header { background: white;
-    padding: 50px 0;}
-.caixa {position: relative;
-width: 940px;
-margin: 0 auto;
-}
-#Logo {width: 35px;
-}
-nav { position: absolute;
-top:55px;
-right: 0;}
-nav li {display: inline-block; 
-    margin: 0 0 0 15px;}
-nav a {text-transform: uppercase;
-    color: black;
-    font-size: 22px;
-    font-weight: bold;
-    text-decoration: none;
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
-    }
+
 h1 { text-align: center;
 font-size: 30px; 
 color:  white;
@@ -42,12 +23,3 @@ li::marker {
     content: "\2764";
     color: blue;
     content: "\1F6E0";}
-footer  {
-        text-align: center;
-        background: grey;
-        padding: 40px 0;
-       }
-       #fundo {width: 5%;}
-       .copyright {color: #ffffff;
-       font-size: 13px;
-       padding: 20px 0 0;}
