@@ -20,3 +20,6 @@ nav a {text-transform: uppercase;
     text-decoration: none;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     }
+    nav a:hover {
+        color:blue;
+    }
