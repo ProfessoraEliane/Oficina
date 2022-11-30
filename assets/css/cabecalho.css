@@ -21,5 +21,6 @@ nav a {text-transform: uppercase;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     }
 nav a:hover{
-    color: rgb(255, 0, 191);
+    color: rgb(59, 36, 204);
+    font-size: 28px;
 }
