@@ -11,7 +11,7 @@ width: 100%; height: 100%;}
 
 p { text-align: justify;
 font-size: 20px;}
-.oficina p:active {
+.oficina p:hover {
 
 color: blue;
 }
